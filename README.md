@@ -46,12 +46,12 @@ VITE_APPWRITE_DATABASE_ID=your_database_id
 VITE_APPWRITE_COLLECTION_ID=your_collection_id
 
 🧠 Folder Structure
-src/
-├── components/
-│   ├── MovieCard.jsx
-│   ├── Search.jsx
-│   └── Spinner.jsx
-├── App.jsx
-├── appwrite.js
-└── main.jsx
+src/ <br>
+├── components/ <br>
+│   ├── MovieCard.jsx <br>
+│   ├── Search.jsx <br>
+│   └── Spinner.jsx <br>
+├── App.jsx <br>
+├── appwrite.js <br>
+└── main.jsx <br>
 
